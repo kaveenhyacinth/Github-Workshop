@@ -1,7 +1,7 @@
-01. Name: 
+01. Name: Kaveen Hyacinth De Alwis
 
-02. Batch:
+02. Batch: 18.2
 
-03. Course:
+03. Course: Bsc Software Engineering
 
-04. Interests:
+04. Interests: Coding
